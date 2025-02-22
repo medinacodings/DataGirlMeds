@@ -1,0 +1,1 @@
+print("Fools gold")
